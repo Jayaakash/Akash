@@ -1,0 +1,18 @@
+@import url(<link = "preconnect" href="https://fonts.googleapis.com">);
+*{
+    margin:0; 
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+section{
+    margin: 0;
+    padding: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+
+body{
+    border: 2px  solid purple;
+}
